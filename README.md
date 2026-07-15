@@ -1,4 +1,4 @@
-# RAG Tutorial with LangChain
+# RAG Tutorial with LangChain :
 
 A step-by-step tutorial demonstrating how to build a Retrieval Augmented Generation (RAG) system using LangChain, OpenAI, and Pinecone.
 
